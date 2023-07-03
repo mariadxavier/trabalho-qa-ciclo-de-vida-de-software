@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    font-family: "Poppins", "sans-serif";
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+ul {
+    list-style-type: none;    
+}
+
+:root {
+    --color-primary: #E1EACD;
+    --color-secundary: #BAD8B6;
+    --color-tertiary: #61B390;
+    --color-quartenary: #01352c;
+    --color-black: #000;
+    ---color-white: #fff;
+}
